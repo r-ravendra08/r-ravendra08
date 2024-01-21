@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @r-ravendra08
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java technology
+- 🌱 I’m currently working on Java technology
 - 📫 contact me kumarrrvendra055@gmail.com
 
 
